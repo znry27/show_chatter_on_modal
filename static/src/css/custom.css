@@ -1,0 +1,7 @@
+/* 
+	in odoo 12 oe_chatter has been set to hide when open in modal
+	so we simple override that
+*/
+.modal .modal-dialog .o_form_view .oe_chatter {
+    display: block !important;
+}

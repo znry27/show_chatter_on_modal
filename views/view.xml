@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_backend_show_chatter_on_modal" name="widget assets" inherit_id="web.assets_backend">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" type="text/css" href="/show_chatter_on_modal/static/src/css/custom.css"/>
+            
+        </xpath>
+    </template>
+    
+</odoo>

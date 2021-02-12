@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 {
     'name' : 'Show Chatter on Modal',
-    'version' : '1.0.0',
+    'version' : '12.0.1.0.0',
     'author' : 'Ngasturi',
-    'summary': 'Show Chatter on Modal',
-    'description': 'Show Chatter on Modal',
     'category': '',
-    'website': 'http://cahngloji.blogspot.com/',    
+    'website': 'https://en.ngasturi.id',    
     'depends' : ['web'],
     'data': [
         'views/view.xml',
